@@ -1,0 +1,10 @@
+.text
+main:	addi $2  $0  5
+		syscall
+		addi $7 $0 2
+		add $9 $0 $2
+		mul $4 $9 $7
+		addi $2 $0 1
+		syscall
+		addi $2 $0 10
+		syscall
