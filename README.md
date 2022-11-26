@@ -1,0 +1,3 @@
+Projeto da matéria de arquitetura de computadores feito para obtenção de nota referente ao primeiro bimestre do segundo período do curso de Análise e Desenvolvimento de Sitstemas ofertado pela IFRN - CNAT
+
+O projeto tem intuito de ler um arquivo dentro do próprio repositório em formato '.txt' sendo o mesmo com um código feito na linguagem Assembly para que o algoritmo leia, transforme os comandos de acordo com o manual do processador MIPS em um comando em binário e do binário converta para o hexadecimal e assim sendo escrito em um arquivo de saída também no formato '.txt' os comandos em Hexadecimal
